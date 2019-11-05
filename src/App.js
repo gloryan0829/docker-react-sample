@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-           자동 배포하기 : feature/ui/ui-text-변경 브랜치 -> PR -> Merge.
+           자동 배포하기 : feature/ui/ui-text-변경 브랜치 -> PR -> Merge!!!
         </p>
         <a
           className="App-link"
