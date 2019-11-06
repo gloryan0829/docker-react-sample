@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <code>자동 배포하기 : src/App.js</code> and save to reload.
+          <code>자동 배포하기 : src/App.js</code> and save to reload. (수정)
         </p>
         <a
           className="App-link"
